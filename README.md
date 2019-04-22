@@ -6,7 +6,7 @@ You can clone them to your workspace and start running 1_Main_Script.py from PyC
 
 If you want to download the data from its original source on Kaggle, please follow the instructions below:
 
-##########################################################################
+
 Please install Kaggle API according to 
 https://github.com/Kaggle/kaggle-api/blob/master/README.md
 
