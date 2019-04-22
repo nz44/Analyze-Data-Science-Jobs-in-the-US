@@ -21,7 +21,8 @@ Create a kaggle file on your windows location
 mkdir .kaggle\
 
 
-Place the Kaggle.json file in the Code folder inside the Kaggle file described above.
+Generate your own Kaggle API token (follow instructions on https://github.com/Kaggle/kaggle-api/blob/master/README.md)
+and place it in the above folder. 
 
 Run below in command line (Unix):
 chmod 600 ~/.kaggle/kaggle.json
