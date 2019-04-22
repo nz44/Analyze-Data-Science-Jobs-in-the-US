@@ -1,8 +1,9 @@
 # Final-Project-Group3
 2019 Spring DATS 6103_10 
 
-## Download the Kaggle dataset into your working folder from:
+## Download the Kaggle dataset 
 https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us/version/4
+And unzip it in your working folder. 
 
 ## If you want to download the data from command line, please follow the instructions below:
 Please install Kaggle API according to 
@@ -36,7 +37,7 @@ unzip data-scientist-job-market-in-the-us.zip
 On Windows, unzip by right clikcing "extract all"
 
 
-## The unzipped data is "alldata.csv", it should appear in the project folder. 
+## The unzipped data is "alldata.csv", it should appear in your working folder. 
 Open 1_Main_Script.py from PyCharm, run
 You should see all the plots and printout on the python console or terminal.
 
