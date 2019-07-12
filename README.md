@@ -1,4 +1,4 @@
-# Final-Project-Group3
+# Final-Project-3
 This is an individual course project at George Washington University 2019 Spring DATS 6103 Data Mining
 
 ## Download the Kaggle dataset 
