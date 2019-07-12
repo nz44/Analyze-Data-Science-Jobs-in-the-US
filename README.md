@@ -1,5 +1,5 @@
 # Final-Project-Group3
-2019 Spring DATS 6103_10 
+This is an individual course project at George Washington University 2019 Spring DATS 6103 Data Mining
 
 ## Download the Kaggle dataset 
 https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us/version/4
